@@ -17,7 +17,7 @@ function App() {
           className=" dark:text-purple-500 uppercase font-bold text-purple-800  "
           href="#"
         >
-          webdev
+          TailwindCss
         </a>
         <nav className=" hidden md:inline-flex items-center">
           <ul className=" inline-flex items-center ">
